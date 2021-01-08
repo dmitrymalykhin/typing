@@ -867,44 +867,44 @@ footer {
 }
 .new-card__link {
 	background: #69bc31;
-	padding: 3px 25px;
+	padding: 7px 45px;
 	border-radius: 15px;
 	margin: 20px 0;
 }
 .form {
 	background: #f9f9fa;
 	margin: 20px 10px;
-	padding: 25px 20px;
+	padding: 50px 30px;
 	color: #000;
 }
 .form-text {
 	margin-bottom: 25px;
 }
 .form-title {
-	margin-bottom: 5px;
+	margin-bottom: 15px;
 }
 .input-form {
 	background: #fff;
 	border: 0;
 	outline: 0;
 	border-radius: 15px;
-	padding: 15px 15px;
+	padding: 25px 15px;
 	width: 100%;
-	margin-bottom: 10px;
+	margin-bottom: 15px;
 }
 .btn-group {
-	margin-top: 10px;
+	margin-top: 25px;
 }
 .login {
 	background: #69bc31;
-	padding: 3px 25px;
+	padding: 7px 45px;
 	border-radius: 15px;
 	margin: 20px 0;
 	margin-right: 25px;
 }
 .reset-password {
 	background: #c7c7c7;
-	padding: 3px 25px;
+	padding: 7px 45px;
 	border-radius: 15px;
 	margin: 20px 0;	
 }
@@ -950,7 +950,9 @@ label {
 .custom-checkbox:disabled+label::before {
   background-color: #fff;
 }
-
+.ad-new-bg {
+	background: #d4ebfd !important;
+}
 @media screen and (max-width: 576px){
 
 }
