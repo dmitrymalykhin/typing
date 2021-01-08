@@ -189,6 +189,7 @@ main {
 	height: 18px;
 	border-right: 1px #000 solid;
 	padding-right: 5px;
+	object-fit: scale-down;
 }
 .rating b {
 	margin-left: 10px;
